@@ -1,0 +1,16 @@
+{
+  "name": "my-express-wiki-app",
+  "version": "1.0.0",
+  "description": "My Wiki App",
+  "main": "wiki.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allen H. Thompson",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "hbs": "^4.0.0"
+  }
+}
